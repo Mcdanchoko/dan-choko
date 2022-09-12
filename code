@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teacher kofo project</title>
+    <style type="text/css">
+        #main-header{
+            text-align: center;
+        }
+        img {
+            width: 100px;
+            border-radius: 50px;
+            float: left;
+            margin-right: 10px;
+        }
+
+        .username {
+            font-weight: bold;
+        }
+
+    </style>
+</head>
+<body style="background-color: bisque;">
+
+    <a href="company/About.html">About</a>
+    <a href="danchoko.jpg" download>My Photo</a>
+    <a href="#Css">CSS</a>
+    <a href="https://Google.Com" target="-blank">GOOGLE</a>
+    <a href="mailto:mcdanchoko@gmail.com">EMAIL</a>
+
+
+
+    <h1><center>Teacher kofo first project</center></h1>
+    <br/>
+    <img src="danchoko.jpg">
+    <p class="username">@Mcdanchoko</p>
+    <p>Thank you</p>
+    <br/><br/>
+    <hr>
+
+    <h2>PHASE 2</h2>
+    <br/>
+    <b>HTML</b>
+    <p>With our YouTube video downloader, you can select videos and download them free of charge! You can get high-quality videos in MP4, MP3, SQ, HD, Full HD quality, and other formats. Our software works both on PC and mobile, allowing you to use it anywhere you are!
+        
+        YouTube video download has never been so simple! Don’t waste your time. Just install our software on your devices and enjoy free content!
+        
+        Want to know more? You can find our download instructions below.</p>
+
+    <br/>
+
+    <b>CSS</b>
+    <header id="main-header">
+        <p>How to download YouTube videos in various formats?
+    </header>
+
+    
+       <p>1.If you want to download YouTube videos in HD, MP3, or MP4, use Televzr Downloader.</p>
+       <p>2.YouTube video download is also possible with Ummy.Just click on the buttons “HD via Ummy” or “MP3 via Ummy” below the video you want.</p>
+       <p>3.Once you’ve installed the YouTube downloader app on your computer, you’ll see the “Download” button below each video.</p>
+       <p>4.This method works with all versions of Windows and Mac OS.</p>
+
+       <br/><br>
+
+       <h2>PHASE 2</h2>
+
+       <div>div1</div> 
+       <div>div2</div>
+
+       
+
+
+
+</body>
+</html>
